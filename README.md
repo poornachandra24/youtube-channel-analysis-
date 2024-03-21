@@ -14,7 +14,7 @@ This script collects video metrics (view count, like count, comment count) from 
 3. Set the `CHANNEL_ID` variable to the channel ID of Neo4j.
 
 ## Usage:
-1. Run the script `youtube_video_metrics_extraction.py`.
+1. Run the script `Neo4j_youtube_api.ipynb`.
 2. The script will fetch video metrics for all videos on the Neo4j channel.
 3. The extracted data will be stored in a CSV file named `youtube_vids.csv`.
 
